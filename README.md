@@ -1,6 +1,6 @@
 # Warning About this LIB Usage
 
-This is a minor modified version for orginal libraray for using in commonjs project
+This is a minor modified version for orginal module for using in commonjs project
 
 [![NPM Version](https://badge.fury.io/js/azure-ad-verify-token.svg)](https://badge.fury.io/js/azure-ad-verify-token)
 ![CI](https://github.com/justinlettau/azure-ad-verify-token/workflows/CI/badge.svg)
