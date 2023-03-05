@@ -1,3 +1,7 @@
+# Warning About this LIB Usage
+
+This is a minor modified version for orginal libraray for using in commonjs project
+
 [![NPM Version](https://badge.fury.io/js/azure-ad-verify-token.svg)](https://badge.fury.io/js/azure-ad-verify-token)
 ![CI](https://github.com/justinlettau/azure-ad-verify-token/workflows/CI/badge.svg)
 [![Codecov](https://codecov.io/gh/justinlettau/azure-ad-verify-token/branch/master/graph/badge.svg)](https://codecov.io/gh/justinlettau/azure-ad-verify-token)
