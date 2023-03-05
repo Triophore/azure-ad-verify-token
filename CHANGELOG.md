@@ -1,3 +1,6 @@
+# Warning About this LIB Usage
+
+This is a minor modified version for orginal libraray for using in commonjs project
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.

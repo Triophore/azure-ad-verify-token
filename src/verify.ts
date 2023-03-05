@@ -1,5 +1,5 @@
 import jwt from 'jsonwebtoken';
-import fetch from 'node-fetch';
+const {default : fetch} = require('node-fetch');
 import getPem from 'rsa-pem-from-mod-exp';
 
 import { getItem, setDeferredItem, setItem } from './cache.js';
